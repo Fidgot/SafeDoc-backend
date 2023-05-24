@@ -60,5 +60,5 @@ typings/
 # next.js build output
 .next
 
-# collections files
-jsonFiles/
+# Ignore all files with the specified extension
+*.json
