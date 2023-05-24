@@ -61,4 +61,4 @@ typings/
 .next
 
 # collections files
-.jsonFiles
+jsonFiles/
